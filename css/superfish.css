@@ -4,13 +4,15 @@
 	z-index: 999;
 	position: relative;
 	padding-top: 19px;
-	margin-right: -20px;
+	margin-right: 20px;
 }
 
 
 .menu_block nav {
 	position: relative;
-	font-family: 'Dorsa', sans-serif;
+	font-family: 'Courgette', cursive;
+	font-size: 8px;
+	font-weight: 200;
 }
 
 
@@ -26,7 +28,7 @@ nav{ position:relative;padding: 0px 0 0 0;}
 	display: block;
 	position: relative;
 	float: left;
-	font-size: 28px;
+	font-size: 22px;
 	line-height: 30px;
 
 }
